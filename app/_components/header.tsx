@@ -8,9 +8,9 @@ const Header = () => {
     <Card>
         <CardContent className="px-5 py-8 justify-between items-center flex flex-row">
             <Image src="/Logo.png" alt="FSW Barber" height={22} width={120}/>
-            <Button variant="outline" size="icon">
+            {/* <Button variant="outline" size="icon">
                 <MenuIcon size={18} />
-            </Button>
+            </Button> */}
         </CardContent>
     </Card> 
     );
